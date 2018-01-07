@@ -1,0 +1,39 @@
+#taken from http://www.infoplease.com/ipa/A0907036.html
+#Roots
+dict		to say	contradict, dictate, diction, edict, predict
+duc		to lead, bring, take	deduce, produce, reduce
+gress	to walk	digress, progress, transgress
+ject		to throw	eject, inject, interject, project, reject, subject
+pel		to drive	compel, dispel, impel, repel
+pend	to hang	append, depend, impend, pendant, pendulum
+port		to carry	comport, deport, export, import, report, support
+scrib			to write	describe, description, prescribe, prescription, subscribe, subscription, transcribe, transcription
+script		to write	describe, description, prescribe, prescription, subscribe, subscription, transcribe, transcription
+tract		to pull, drag, draw	attract, contract, detract, extract, protract, retract, traction
+vert		to turn	convert, divert, invert, revert
+
+#Prefixes
+co		together	coauthor, coedit, coheir
+de		away, off; generally indicates reversal or removal in English  deactivate, debone, defrost, decompress, deplane
+dis		not, not any	disbelief, discomfort, discredit, disrepair, disrespect
+inter		between, among	international, interfaith, intertwine, intercellular, interject
+non		nonessential, nonmetallic, nonresident, nonviolence, nonskid, nonstop
+not		nonessential, nonmetallic, nonresident, nonviolence, nonskid, nonstop
+post		after	postdate, postwar, postnasal, postnatal
+pre		before	preconceive, preexist, premeditate, predispose, prepossess, prepay
+re		again; back, backward	rearrange, rebuild, recall, remake, rerun, rewrite
+sub		under	submarine, subsoil, subway, subhuman, substandard
+trans		across, beyond, through	transatlantic, transpolar
+
+#Suffixes
+able		forms adjectives and means “capable or worthy of” likable, flexible
+ible		forms adjectives and means “capable or worthy of” likable, flexible
+ation		forms nouns from verbs	creation, civilization, automation, speculation, information
+fy		forms verbs and means “to make or cause to become purify, acidify, humidify
+ify		forms verbs and means “to make or cause to become purify, acidify, humidify
+ment		forms nouns from verbs	entertainment, amazement, statement, banishment
+ty		forms nouns from adjectives	subtlety, certainty, cruelty, frailty, loyalty, royalty; eccentricity, electricity, peculiarity, similarity, technicality
+ity		forms nouns from adjectives	subtlety, certainty, cruelty, frailty, loyalty, royalty; eccentricity, electricity, peculiarity, similarity, technicality
+
+
+

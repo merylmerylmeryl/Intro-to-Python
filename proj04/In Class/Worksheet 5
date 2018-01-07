@@ -1,0 +1,9 @@
+myStr = raw_input("Give me a string:")
+
+while len(myStr) > 2:
+    myStr = myStr[:4]
+    print myStr
+    myStr = myStr[2:]
+    print myStr
+
+print myStr

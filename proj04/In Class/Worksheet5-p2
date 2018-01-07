@@ -1,0 +1,9 @@
+myList = ['a',1,'z',2,'f',3]
+
+maxVal = 'a'
+for val in myList:
+    if val.isalpha() and val > maxVal:
+        maxVal = val
+newList = myList.append(maxVal)
+
+print newLists

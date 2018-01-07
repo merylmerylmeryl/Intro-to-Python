@@ -1,0 +1,44 @@
+Reading Roots...
+Reading Prefixes...
+Reading Suffixes...
+Counting...
+Printing results...
+
+Roots:
+
+dict         200
+duc          565
+gress        124
+ject         234
+pel          552
+pend         242
+port         480
+scrib        112
+script       176
+tract        254
+vert         437
+
+Prefixes:
+
+co          6808
+de          3617
+dis         1708
+inter       1184
+non         2793
+not          164
+post         509
+pre         3030
+re          5453
+sub         1620
+trans        506
+
+Suffixes:
+
+able        3604
+ible         543
+ation       4520
+fy           512
+ify          414
+ment        1491
+ty          3805
+ity         3016
